@@ -1,6 +1,7 @@
+// criando um objeto onde as informações serão despostas
 const MyNameApp = {
     data() {
-        return{
+        return {
             name: "Matheus",
             idade: 30
         }
